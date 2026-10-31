@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ggcameronnogg.github.io/sitemap.xml
